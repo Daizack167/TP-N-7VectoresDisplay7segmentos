@@ -1,1 +1,0 @@
-# TP-N-7VectoresDisplay7segmentos
